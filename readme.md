@@ -1,6 +1,6 @@
 # All In One Downloader
 
-Download Media From Multiple Website Using One Library.
+Download Media From Multiple Website Using One Library
 
 Allmost all downloader scrape directly from the sites without 3rd api.
 
